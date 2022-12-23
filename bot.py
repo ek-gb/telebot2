@@ -38,3 +38,6 @@ app.add_handler(CommandHandler("hello", hello))
 app.add_handler(CommandHandler("goodbye", goodbye))
 
 app.run_polling()
+
+
+privet medved
